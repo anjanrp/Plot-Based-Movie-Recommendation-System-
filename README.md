@@ -16,7 +16,7 @@ Processing:
     It processes the plot summary through a pre-trained neural network to predict the genre.
     Based on the predicted genre, the application queries an internally maintained dataset to recommend similar movies.
 
-Steps to execute 
+Steps to execute :
 Put all the files here in the same directory -> Run the model training file -> Launch the Streamlit application by the command - streamlit run run.py. 
 
 Note 
