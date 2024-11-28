@@ -9,7 +9,7 @@ Genre Prediction: Predict the genre of a movie by its plot summary.
 Movie Recommendations: Recommend similar movies based on the predicted genre.
 Custom Styles: Enhanced user interface with custom styles and background.
 
-Functionality
+
 Input: The user is prompted to enter the name of a movie.
 Processing:
     The application queries the Wikipedia page for the entered movie name to fetch the plot summary.
