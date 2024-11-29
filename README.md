@@ -1,5 +1,5 @@
 # Plot-Based-Movie-Recommendation-System-
-This was done as a part of the coursework Topics in Deep Learning in PES University 
+This was done as a part of the coursework Topics in Deep Learning in PES University in May 2024
 
 This Streamlit application predicts the genre of movies based on their plot summaries obtained from Wikipedia and recommends similar movies. It utilizes a machine learning model trained on movie plot data to perform genre classification and provides movie recommendations accordingly.
 
